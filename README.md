@@ -1,4 +1,4 @@
-# Application Desktop pour créer des Raccourcis (Windows)
+# Une Application Desktop pour créer des Raccourcis (Windows) v1.0.0
 Application qui permet de créer des racourcis vers les sites, les applications, les dossiers et les fichiers que vous utilisez au quotidien.
 Gagner de précieuses minutes.
 C'est simple, C'est rapide et C'est facile.
