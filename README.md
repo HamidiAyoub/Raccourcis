@@ -7,7 +7,7 @@ C'est simple, C'est rapide et C'est facile.
 
 1. Telecharger ou cloner les deux fichiers
 2. Faire un double clique sur le __Setup.exe__
-3. Faire __Suivant__, __Suivant__, __Suivant__, et __Fermer__
+3. Faire __Suivant__, __Suivant__, __Suivant__, __oui__ et __Fermer__
 4. Tappez dans la barre de recherche __RaccApp__
 5. Cliquez sur RaccApp pour ouvrir l'application
 
