@@ -49,7 +49,7 @@ Une Nouvelle fenêtre s'ouvre avec la liste des raccourcis __cochez__ les raccou
 
 #contact
 
-Envoyez-moi un mail à l'adresse __a.hamidi@hotmail.fr__ avec l'objet __RaccApp__. 
+Envoyez-moi un mail à l'adresse __a.hamidi@hotmail.fr__ avec l'objet __App-Raccourcis__. 
 * Si vous avez une question
 * Si vous avez un problème avec l'application
 * Si vous avez une idée d'amélioration dans l'application
